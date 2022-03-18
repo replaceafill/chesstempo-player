@@ -1,0 +1,2 @@
+chess==1.9.0
+temporalio==0.1a1
